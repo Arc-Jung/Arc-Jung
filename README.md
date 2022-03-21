@@ -8,7 +8,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arc-Jung)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://opgc.me/#/users/Arc-jung" target="_blank"><img src="https://api.opgc.me/githubs/users/Arc-jung/tag/?theme=basic" /></a>
-
-- 애옹애옹
-🐈‍🐈‍🐈‍🐈‍🐈
+- 고양이를 좋아하는 백엔드 개발자 애옹애옹 🐈‍🐈‍🐈‍🐈‍🐈
