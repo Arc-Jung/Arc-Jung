@@ -6,7 +6,9 @@
 
 - Passed the 87th certificated in S.Korea. [  Professional Cloud Architect Issued on Mar 11, 2020 ](https://googlecloudcertified.credential.net/profile/e10a74c697ff6411361819a6154a674536feb426)
 
-[![Anurag's github stats](https://github-readme-stats-drab-beta-35.vercel.app/api?username=Arc-Jung)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-drab-beta-35.vercel.app/api/pin/?username=Arc-Jung&repo=github-readme-stats" />
+</a>
 
 ### Article
 - [테스트 케이스 작성 방법](https://medium.com/@wsjung0222/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%B4%EC%84%9C-%EB%B2%84%EA%B7%B8%EB%A5%BC-%EC%98%88%EB%B0%A9%ED%95%98%EC%9E%90-82eb1a776107)
