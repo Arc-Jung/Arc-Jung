@@ -1,4 +1,4 @@
-![It’s not a bug, it’s a feature. 프로필 배너](https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:333333,100:666666&height=160&text=It%E2%80%99s%20not%20a%20bug%2C%20it%E2%80%99s%20a%20feature.&fontColor=f8fafc&fontSize=32)
+![It’s not a bug, it’s a feature. 프로필 배너](https://capsule-render.vercel.app/api?type=rect&color=0:666666,50:000000,100:666666&height=160&text=It%E2%80%99s%20not%20a%20bug%2C%20it%E2%80%99s%20a%20feature.&fontColor=f8fafc&fontSize=32)
 
 ## Arc-Jung 🐈‍
 
